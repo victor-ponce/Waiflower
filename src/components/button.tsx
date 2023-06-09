@@ -7,7 +7,7 @@ const MyButton: FC = () => {
     }
 
     return (
-        <Button variant="contained" color="primary" onClick={handleClick}>
+        <Button variant="outlined" color="primary" onClick={handleClick}>
             Push me
         </Button>
     );
