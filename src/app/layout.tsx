@@ -1,6 +1,11 @@
 import './globals.css'
 import { Inter } from 'next/font/google'
 
+<link
+    rel="manifest"
+    href="/manifest.json"
+/>
+
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
