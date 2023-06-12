@@ -1,6 +1,6 @@
 {
   "packageId": "app.vercel.waiflower.twa",
-  "host": "waiflower.verce.app",
+  "host": "waiflower.vercel.app",
   "name": "Waiflower-Next-PWA",
   "launcherName": "WaiflowerPWA",
   "display": "standalone",
@@ -13,11 +13,10 @@
   "enableNotifications": true,
   "startUrl": "/src/app/page.tsx",
   "iconUrl": "https://waiflower.vercel.app/icon-512x512.png",
-  "maskableIconUrl": "https://waiflower.vercel.app/maskable.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
     "path": "/Users/victorponce/Documents/Code/GitHub/waiflower/android.keystore",
-    "alias": "android-keystore"
+    "alias": "android"
   },
   "appVersionName": "1",
   "appVersionCode": 1,
