@@ -1,0 +1,8 @@
+app/vercel/waiflower/twa/BuildConfig.java
+ app.vercel.waiflower.twa.BuildConfig
+app/vercel/waiflower/twa/Application.java
+ app.vercel.waiflower.twa.Application
+app/vercel/waiflower/twa/DelegationService.java
+ app.vercel.waiflower.twa.DelegationService
+app/vercel/waiflower/twa/LauncherActivity.java
+ app.vercel.waiflower.twa.LauncherActivity

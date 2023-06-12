@@ -13,6 +13,7 @@
   "enableNotifications": true,
   "startUrl": "/src/app/page.tsx",
   "iconUrl": "https://waiflower.vercel.app/icon-512x512.png",
+  "maskableIconUrl": "https://waiflower.vercel.app/maskable.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
     "path": "/Users/victorponce/Documents/Code/GitHub/waiflower/android.keystore",

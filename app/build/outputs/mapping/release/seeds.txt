@@ -1,0 +1,112 @@
+com.google.android.gms.auth.api.signin.GoogleSignInAccount: android.os.Parcelable$Creator CREATOR
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+com.google.android.gms.location.zzaj: android.os.Parcelable$Creator CREATOR
+app.vercel.waiflower.twa.LauncherActivity: LauncherActivity()
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+androidx.core.graphics.drawable.IconCompat
+com.google.androidbrowserhelper.playbilling.provider.PaymentActivity
+com.google.android.gms.common.internal.ClientIdentity: android.os.Parcelable$Creator CREATOR
+androidx.lifecycle.FullLifecycleObserverAdapter
+androidx.lifecycle.LiveData$LifecycleBoundObserver
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+com.google.androidbrowserhelper.playbilling.provider.PaymentService
+com.google.androidbrowserhelper.trusted.NotificationPermissionRequestActivity: NotificationPermissionRequestActivity()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+com.google.android.gms.internal.location.zzo: android.os.Parcelable$Creator CREATOR
+app.vercel.waiflower.twa.DelegationService
+com.google.android.gms.signin.internal.zaj: android.os.Parcelable$Creator CREATOR
+androidx.loader.app.LoaderManagerImpl$LoaderViewModel
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+androidx.lifecycle.ViewModel: ViewModel()
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.versionedparcelable.CustomVersionedParcelable
+androidx.lifecycle.CompositeGeneratedAdaptersObserver
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+com.google.android.gms.signin.internal.zaa: android.os.Parcelable$Creator CREATOR
+com.google.androidbrowserhelper.trusted.NotificationPermissionRequestActivity
+com.google.androidbrowserhelper.trusted.WebViewFallbackActivity
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+com.google.android.gms.internal.location.zzbd: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.common.util.DynamiteApi
+com.google.android.gms.common.api.Scope: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.common.internal.GetServiceRequest: android.os.Parcelable$Creator CREATOR
+com.google.androidbrowserhelper.locationdelegation.PermissionRequestActivity: PermissionRequestActivity()
+com.google.android.gms.location.LocationAvailability: android.os.Parcelable$Creator CREATOR
+androidx.core.app.RemoteActionCompatParcelizer
+app.vercel.waiflower.twa.LauncherActivity
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.core.graphics.drawable.IconCompatParcelizer
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+com.google.androidbrowserhelper.trusted.ManageDataLauncherActivity
+com.google.android.gms.location.zzj: android.os.Parcelable$Creator CREATOR
+com.google.androidbrowserhelper.trusted.FocusActivity: FocusActivity()
+com.google.android.gms.common.internal.ResolveAccountResponse: android.os.Parcelable$Creator CREATOR
+androidx.fragment.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.location.LocationResult: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.location.zzbf: android.os.Parcelable$Creator CREATOR
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+com.google.android.gms.common.api.Status: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.signin.internal.zah: android.os.Parcelable$Creator CREATOR
+androidx.browser.trusted.TrustedWebActivityService: TrustedWebActivityService()
+com.android.billingclient.api.ProxyBillingActivity: ProxyBillingActivity()
+com.google.android.gms.common.internal.ResolveAccountRequest: android.os.Parcelable$Creator CREATOR
+com.google.androidbrowserhelper.locationdelegation.PermissionRequestActivity
+androidx.browser.browseractions.BrowserActionsFallbackMenuView: BrowserActionsFallbackMenuView(android.content.Context,android.util.AttributeSet)
+com.google.android.gms.common.ConnectionResult: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.RemoteActionCompatParcelizer
+androidx.loader.app.LoaderManagerImpl$LoaderViewModel: LoaderManagerImpl$LoaderViewModel()
+androidx.core.content.FileProvider: FileProvider()
+androidx.fragment.app.BackStackState: android.os.Parcelable$Creator CREATOR
+com.google.androidbrowserhelper.trusted.LauncherActivity: LauncherActivity()
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+com.google.android.gms.common.internal.zzb: android.os.Parcelable$Creator CREATOR
+androidx.lifecycle.ReflectiveGenericLifecycleObserver
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader: java.lang.ClassLoader sClassLoader
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+app.vercel.waiflower.twa.DelegationService: DelegationService()
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader: DynamiteModule$DynamiteLoaderClassLoader()
+com.google.androidbrowserhelper.trusted.ManageDataLauncherActivity: ManageDataLauncherActivity()
+app.vercel.waiflower.twa.Application: Application()
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+com.google.android.gms.common.api.GoogleApiActivity: GoogleApiActivity()
+app.vercel.waiflower.twa.Application
+com.google.android.gms.common.api.internal.LifecycleCallback: com.google.android.gms.common.api.internal.LifecycleFragment getChimeraLifecycleFragmentImpl(com.google.android.gms.common.api.internal.LifecycleActivity)
+com.google.androidbrowserhelper.trusted.FocusActivity
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+androidx.versionedparcelable.ParcelImpl
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.lifecycle.SingleGeneratedAdapterObserver
+com.android.billingclient.api.ProxyBillingActivity
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+androidx.annotation.Keep
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+com.google.androidbrowserhelper.trusted.DelegationService: DelegationService()
+com.google.android.gms.location.LocationRequest: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.common.internal.ReflectedParcelable
+com.google.android.gms.common.Feature: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.common.api.GoogleApiActivity
+com.google.android.gms.internal.location.zzm: android.os.Parcelable$Creator CREATOR
+com.google.androidbrowserhelper.playbilling.provider.PaymentActivity: PaymentActivity()
+androidx.core.app.RemoteActionCompat
+com.google.android.gms.common.api.internal.LifecycleCallback
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+com.google.android.gms.internal.location.zzad: android.os.Parcelable$Creator CREATOR
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+androidx.browser.browseractions.BrowserActionsFallbackMenuView
+com.google.androidbrowserhelper.playbilling.provider.PaymentService: PaymentService()
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.core.content.FileProvider
+android.support.v4.graphics.drawable.IconCompatParcelizer
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.fragment.app.FragmentState: android.os.Parcelable$Creator CREATOR
+androidx.core.app.CoreComponentFactory
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+com.google.androidbrowserhelper.trusted.WebViewFallbackActivity: WebViewFallbackActivity()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+com.google.android.gms.common.annotation.KeepName
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
