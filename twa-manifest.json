@@ -1,0 +1,49 @@
+{
+  "packageId": "app.vercel.waiflower.twa",
+  "host": "waiflower.verce.app",
+  "name": "Waiflower-Next-PWA",
+  "launcherName": "WaiflowerPWA",
+  "display": "standalone",
+  "themeColor": "#FFFFFF",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#FFFFFF",
+  "enableNotifications": true,
+  "startUrl": "/src/app/page.tsx",
+  "iconUrl": "https://waiflower.vercel.app/icon-512x512.png",
+  "maskableIconUrl": "https://waiflower.vercel.app/maskable.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "/Users/victorponce/Documents/Code/GitHub/waiflower/android.keystore",
+    "alias": "android-keystore"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://waiflower.vercel.app/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {
+    "playBilling": {
+      "enabled": true
+    },
+    "locationDelegation": {
+      "enabled": true
+    }
+  },
+  "alphaDependencies": {
+    "enabled": true
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://waiflower.vercel.app/",
+  "minSdkVersion": 19,
+  "orientation": "default",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "appVersion": "1"
+}
